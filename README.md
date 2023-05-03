@@ -15,7 +15,7 @@
   <img align="center" alt="Jhonny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jhonny-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/TailwindCSS.png">
   <img align="center" alt="Jhonny-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  aqui<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
                                                                                                                                                      
 </div>
 
