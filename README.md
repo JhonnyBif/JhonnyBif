@@ -8,7 +8,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyBif&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jhonny-Nest" height="40" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg](https://devicon-website.vercel.app/api/nestjs/plain.svg)">
+  <img align="center" alt="Jhonny-Nest" height="40" width="40" src="https://devicon-website.vercel.app/api/nestjs/plain.svg">
   <img align="center" alt="Jhonny-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" >
   <img align="center" alt="Jhonny-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Jhonny-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" >
